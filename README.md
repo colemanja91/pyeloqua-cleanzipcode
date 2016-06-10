@@ -31,7 +31,7 @@ pip install zipcode
 ## Create an Eloqua segment
 We don't want to export all the contacts in our database, just a segment of them. I setup this segment which we'll use later during the export:
 
-![alt-text]()
+![alt-text](https://github.com/colemanja91/pyeloqua-cleanzipcode/blob/master/segmentTestZipcode.png "Our test segment")
 
 ## Export segment using pyeloqua
 Let's start by opening a python session by typing `python` in your terminal window or command prompt (or you can open your IDE).
